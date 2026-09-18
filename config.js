@@ -1,2 +1,4 @@
+ window.APP_CONFIG = {
   SUPABASE_URL: "https://vodjnulgkuzfrkzjyugi.supabase.co",
-  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZvZGpudWxna3V6ZnJremp5dWdpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODk2ODY2MjAsImV4cCI6MjEwNTI2MjYyMH0.K01ABqUie3Id-o2H3HTz0Ns4w_Z37us1-nY649iSbn4"
+  SUPABASE_ANON_KEY: "eyJhbGci••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••"
+};
